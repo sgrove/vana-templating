@@ -1,7 +1,7 @@
 Vana Templating
 ========
 
-An utterly sensible templating system written in Common Lisp. One of the guiding principles is "lowest-friction", which says that the smallest unit that a designer is likely to work in cannot have any more friction to use than they're already useful. That means that opening a tag with (<: isn't acceptable, since it's two characters longer than HTML's <.
+An utterly sensible templating system written in Common Lisp. One of the guiding principles is "lowest-friction", where the smallest unit a designer works in must have the same *or less*, never more friction than what they're used to. That means that opening a tag with (<: isn't acceptable, since it's two characters longer than HTML's <.
 
 Read about it more [here][1]
 
